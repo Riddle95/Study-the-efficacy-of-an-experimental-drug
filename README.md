@@ -12,6 +12,6 @@ Part.1. Evaluate treatment effect: the supervised learning technique, regression
 
 Part.2. Segment the patient profile: the treatment results from previous trials were evaluated to categorize the potential treatment results into 5 categories, and the patient profiles were classified into corresponding types by using PCA and K-means analysis
 
-Part 3. Classify the potential type of treatment result: the treatment results of the new trial were classified into 2 potential categorises, including "flagged fr review" or "assigned to a clinical specialis for following up" by applying Random Forest and Logistic Regression
+Part 3. Classify the potential type of treatment result: the treatment results of the new trial were classified into 2 potential categorises, including "flagged for review" or "assigned to a clinical specialist for following up" by applying Random Forest and Logistic Regression
 
 Part 4. Forecast the treatment results: apply neuron network to analyse and predict the treatment result
